@@ -4,7 +4,7 @@ This repository contains **SQL Notes in PDF and Markdown format**.
 Useful for beginners, job seekers, and interview preparation.
 
 ## 📥 Download SQL Notes PDF
-👉 [Click here to download](./SQL_Notes.pdf)
+👉 [Click here to download](./SQL_Notes_Beginner_to_Interview.pdf)
 
 ## 📚 Topics Covered
 - SQL Basics
